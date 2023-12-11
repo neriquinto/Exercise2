@@ -1,0 +1,15 @@
+body, html {
+    background-color: antiquewhite;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    
+.container {
+    background-color: rgb(255, 209, 216);
+    border: 5px solid rgb(204, 159, 172);
+    margin: auto;
+    padding: 50px;
+}
